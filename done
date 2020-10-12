@@ -1,0 +1,2 @@
+1.check for hidden parameter like password gets submiited along with forms and are hidden
+2.phpinfo() function if get embedded in a server req. on a page it reveals server info. 
